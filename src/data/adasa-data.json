@@ -20,7 +20,8 @@
                 "إضاءة",
                 "الساعة الذهبية",
                 "تصوير خارجي"
-            ]
+            ],
+            "imageAlt": "A silhouette of a photographer taking a picture during a golden sunset"
         },
         {
             "id": 2,
@@ -42,7 +43,8 @@
                 "بورتريه",
                 "تصوير أشخاص",
                 "إضاءة طبيعية"
-            ]
+            ],
+            "imageAlt": "A close-up portrait of a person showing deep expression and emotion"
         },
         {
             "id": 3,
@@ -64,7 +66,8 @@
                 "مناظر طبيعية",
                 "تصوير خارجي",
                 "طبيعة"
-            ]
+            ],
+            "imageAlt": "A majestic mountain landscape under a dynamic cloudy sky"
         },
         {
             "id": 4,
@@ -86,7 +89,8 @@
                 "إعدادات الكاميرا",
                 "مبتدئين",
                 "تقنيات"
-            ]
+            ],
+            "imageAlt": "Close up of a professional DSLR camera lens focusing on a subject"
         },
         {
             "id": 5,
@@ -108,7 +112,8 @@
                 "تكوين",
                 "قواعد التصوير",
                 "فن"
-            ]
+            ],
+            "imageAlt": "A beautifully composed photograph demonstrating the rule of thirds"
         },
         {
             "id": 6,
@@ -130,7 +135,8 @@
                 "تصوير الهاتف",
                 "نصائح",
                 "مبتدئين"
-            ]
+            ],
+            "imageAlt": "A person holding a modern smartphone to take a street photo"
         },
         {
             "id": 7,
@@ -152,7 +158,8 @@
                 "تصوير ليلي",
                 "نجوم",
                 "درب التبانة"
-            ]
+            ],
+            "imageAlt": "A stunning view of the Milky Way galaxy over a dark mountain silhouette"
         },
         {
             "id": 8,
@@ -174,7 +181,8 @@
                 "تصوير شوارع",
                 "توثيق",
                 "حياة يومية"
-            ]
+            ],
+            "imageAlt": "A candid street photography shot of people walking in an urban alley"
         },
         {
             "id": 9,
@@ -196,7 +204,8 @@
                 "تصوير طعام",
                 "تنسيق",
                 "إضاءة"
-            ]
+            ],
+            "imageAlt": "A beautifully styled gourmet dish on a rustic wooden table with natural lighting"
         },
         {
             "id": 10,
@@ -218,7 +227,8 @@
                 "حياة برية",
                 "طبيعة",
                 "حيوانات"
-            ]
+            ],
+            "imageAlt": "A wild animal photographed in its natural habitat using a telephoto lens"
         },
         {
             "id": 11,
@@ -240,7 +250,8 @@
                 "أبيض وأسود",
                 "تباين",
                 "فن"
-            ]
+            ],
+            "imageAlt": "A high contrast black and white artistic photograph showing light and shadow"
         },
         {
             "id": 12,
@@ -262,7 +273,8 @@
                 "Lightroom",
                 "تعديل صور",
                 "برامج"
-            ]
+            ],
+            "imageAlt": "A computer screen showing Adobe Lightroom interface during photo editing"
         },
         {
             "id": 13,
@@ -284,7 +296,8 @@
                 "ماكرو",
                 "تفاصيل",
                 "حشرات"
-            ]
+            ],
+            "imageAlt": "A macro shot capturing the tiny details of an insect or a flower petal"
         },
         {
             "id": 14,
@@ -306,7 +319,8 @@
                 "تعريض طويل",
                 "ND فلتر",
                 "إبداع"
-            ]
+            ],
+            "imageAlt": "A long exposure photo showing silky water over rocks at dusk"
         },
         {
             "id": 15,
@@ -328,7 +342,8 @@
                 "زفاف",
                 "مناسبات",
                 "احترافي"
-            ]
+            ],
+            "imageAlt": "A romantic moment of a bride and groom during their wedding ceremony"
         },
         {
             "id": 16,
@@ -350,7 +365,8 @@
                 "درون",
                 "تصوير جوي",
                 "DJI"
-            ]
+            ],
+            "imageAlt": "An aerial drone shot looking straight down on a winding road"
         },
         {
             "id": 17,
@@ -372,7 +388,8 @@
                 "تصوير منتجات",
                 "تجاري",
                 "استوديو"
-            ]
+            ],
+            "imageAlt": "A clean studio shot of a commercial product on a white background"
         },
         {
             "id": 18,
@@ -394,7 +411,8 @@
                 "عمارة",
                 "مباني",
                 "هندسة"
-            ]
+            ],
+            "imageAlt": "A modern architectural building shot with leading lines and symmetry"
         },
         {
             "id": 19,
@@ -416,7 +434,8 @@
                 "رياضة",
                 "حركة",
                 "سرعة"
-            ]
+            ],
+            "imageAlt": "An athlete in mid-air frozen in time during an intense sports match"
         },
         {
             "id": 20,
@@ -438,7 +457,8 @@
                 "فلاش",
                 "إضاءة صناعية",
                 "Speedlight"
-            ]
+            ],
+            "imageAlt": "A professional photographer setting up a strobe flash in a photo studio"
         },
         {
             "id": 21,
@@ -460,7 +480,8 @@
                 "سفر",
                 "رحلات",
                 "توثيق"
-            ]
+            ],
+            "imageAlt": "A wanderlust travel photo showing a tourist overlooking a famous landmark"
         },
         {
             "id": 22,
@@ -482,7 +503,8 @@
                 "ألوان",
                 "نظرية",
                 "تكوين"
-            ]
+            ],
+            "imageAlt": "A colorful composition showing complementary colors for visual impact"
         },
         {
             "id": 23,
@@ -504,7 +526,8 @@
                 "مواليد",
                 "أطفال",
                 "بورتريه"
-            ]
+            ],
+            "imageAlt": "A peaceful sleeping newborn baby wrapped safely in soft blankets"
         },
         {
             "id": 24,
@@ -526,7 +549,8 @@
                 "عقارات",
                 "تجاري",
                 "واسع الزاوية"
-            ]
+            ],
+            "imageAlt": "A wide-angle bright shot of a modern living room for real estate"
         },
         {
             "id": 25,
@@ -548,7 +572,8 @@
                 "RAW",
                 "JPEG",
                 "صيغ الصور"
-            ]
+            ],
+            "imageAlt": "Side-by-side comparison illustrating unedited vs processed photo formats"
         },
         {
             "id": 26,
@@ -570,7 +595,8 @@
                 "بورتريه ذاتي",
                 "إبداع",
                 "تعبير"
-            ]
+            ],
+            "imageAlt": "A close-up portrait of a person showing deep expression and emotion"
         },
         {
             "id": 27,
@@ -592,7 +618,8 @@
                 "عدسات",
                 "معدات",
                 "مبتدئين"
-            ]
+            ],
+            "imageAlt": "Various camera lenses lined up showing different focal lengths"
         },
         {
             "id": 28,
@@ -614,7 +641,8 @@
                 "بساطة",
                 "Minimalist",
                 "تكوين"
-            ]
+            ],
+            "imageAlt": "A minimalist composition with vast negative space and a single subject"
         }
     ],
     "categories": [
@@ -662,21 +690,24 @@
             "title": "أساسيات التصوير الفوتوغرافي",
             "category": "تعليمي",
             "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=800&auto=format&fit=crop",
-            "excerpt": "تعرف على أهم القواعد لبداية مسيرتك في عالم التصوير."
+            "excerpt": "تعرف على أهم القواعد لبداية مسيرتك في عالم التصوير.",
+            "imageAlt": "Featured post cover image illustrating أساسيات التصوير الفوتوغرافي"
         },
         {
             "id": 2,
             "title": "أفضل كاميرات 2024",
             "category": "معدات",
             "imageUrl": "https://images.unsplash.com/photo-1510127022480-779872580a1c?q=80&w=800&auto=format&fit=crop",
-            "excerpt": "نظرة شاملة على أحدث الكاميرات في السوق ومميزاتها."
+            "excerpt": "نظرة شاملة على أحدث الكاميرات في السوق ومميزاتها.",
+            "imageAlt": "Featured post cover image illustrating أفضل كاميرات 2024"
         },
         {
             "id": 3,
             "title": "تصوير الطبيعة الساحرة",
             "category": "إلهام",
             "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=800&auto=format&fit=crop",
-            "excerpt": "كيف تلتقط أفضل الصور في الأماكن الطبيعية المفتوحة."
+            "excerpt": "كيف تلتقط أفضل الصور في الأماكن الطبيعية المفتوحة.",
+            "imageAlt": "Featured post cover image illustrating تصوير الطبيعة الساحرة"
         }
     ]
 }
