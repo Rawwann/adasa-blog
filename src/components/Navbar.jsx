@@ -50,11 +50,15 @@ export default function Navbar() {
                     <button className="p-3 text-neutral-500 hover:text-orange-500 hover:bg-[#161616] rounded-xl transition-all duration-300 border border-transparent hover:border-[#262626]">
                         <FiSearch className="w-5 h-5" />
                     </button>
-                    <Button
-                        className="bg-primary hover:-translate-y-1 text-white font-medium rounded-full px-6 transition-all duration-300"
-                    >
-                        ابدأ القراءة
-                    </Button>
+
+                    <Link to="/blog" className="flex items-center gap-3">
+                        <Button
+                            className="bg-primary hover:-translate-y-1 text-white font-medium rounded-full px-6 transition-all duration-300"
+                        >
+
+                            ابدأ القراءة
+                        </Button>
+                    </Link>
                 </div>
 
             </div>
