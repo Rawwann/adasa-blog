@@ -2,7 +2,7 @@
 
 ## 🌟 Project Overview
 
-**Adasa (عدسة)** is a modern, high-performance platform meticulously crafted for photographers to showcase their stunning visual work and share their brilliant stories with the world. Developed as a final year BIS graduation project, this platform bridges the gap between an exquisite, artistic user interface and cutting-edge web architecture to deliver an immersive and blazing-fast reading experience.
+**Adasa (عدسة)** is a modern, high-performance platform meticulously crafted for photographers to showcase their stunning visual work and share their brilliant stories with the world. This platform bridges the gap between an exquisite, artistic user interface and cutting-edge web architecture to deliver an immersive and blazing-fast reading experience.
 
 Designed with an unwavering focus on the **Arabic (RTL) reading alignment**, Adasa sets an industry-standard benchmark for how premium visual narratives should be engineered and experienced on the web.
 
